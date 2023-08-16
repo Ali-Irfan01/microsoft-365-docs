@@ -52,7 +52,7 @@ We have also seen phishing emails that have links to [tech support scam](support
 
 Spear phishing is a targeted phishing attack that involves highly customized lure content. Attackers will typically do reconnaissance work by surveying social media and other information sources about their intended target.
 
-Spear phishing may involve tricking you into logging into fake sites and divulging credentials. I may also lure you into opening documents by clicking on links that automatically install malware. With this malware in place, attackers can remotely manipulate the infected computer.
+Spear phishing may involve tricking you into logging into fake sites and divulging credentials. It may also lure you into opening documents by clicking on links that automatically install malware. With this malware in place, attackers can remotely manipulate the infected computer.
 
 The implanted malware serves as the point of entry for a more sophisticated attack, known as an advanced persistent threat (APT). APTs are designed to establish control and steal data over extended periods. Attackers may try to deploy more covert hacking tools, move laterally to other computers, compromise or create privileged accounts, and regularly exfiltrate information from compromised networks.
 
